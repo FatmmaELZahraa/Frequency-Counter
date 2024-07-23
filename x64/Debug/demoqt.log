@@ -1,0 +1,26 @@
+﻿  moc demoqt.h
+  moc FrequencyWindow.h
+  moc RankingWindow.h
+  FrequencyWindow.cpp
+  RankingWindow.cpp
+  demoqt.cpp
+  main.cpp
+C:\Users\pc2\Source\Repos\demoqt\demoqt\RankingWindow.h(19,2): warning C4091: 'static ': ignored on left of 'RankingWindow' when no variable is declared
+  (compiling source file 'RankingWindow.cpp')
+  
+C:\Users\pc2\Source\Repos\demoqt\demoqt\RankingWindow.h(19,2): warning C4091: 'static ': ignored on left of 'RankingWindow' when no variable is declared
+  (compiling source file 'demoqt.cpp')
+  
+C:\Users\pc2\Source\Repos\demoqt\demoqt\RankingWindow.h(19,2): warning C4091: 'static ': ignored on left of 'RankingWindow' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+  moc_FrequencyWindow.cpp
+  moc_RankingWindow.cpp
+  moc_demoqt.cpp
+C:\Users\pc2\Source\Repos\demoqt\demoqt\RankingWindow.h(19,2): warning C4091: 'static ': ignored on left of 'RankingWindow' when no variable is declared
+  (compiling source file 'x64/Debug/moc/moc_RankingWindow.cpp')
+  
+C:\Users\pc2\Source\Repos\demoqt\demoqt\RankingWindow.h(19,2): warning C4091: 'static ': ignored on left of 'RankingWindow' when no variable is declared
+  (compiling source file 'x64/Debug/moc/moc_demoqt.cpp')
+  
+  demoqt.vcxproj -> C:\Users\pc2\Source\Repos\demoqt\x64\Debug\demoqt.exe
